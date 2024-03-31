@@ -27,7 +27,7 @@ const options = {
         messageSize: '16px',
         messageLineHeight: '150%',
         backgroundColor: ' #ef4040',
-        iconUrl: '/img/error.svg',
+        iconUrl: 'img/error.svg',
         position: 'topRight',
       });
       startBtn.disabled = true;

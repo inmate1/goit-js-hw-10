@@ -34,7 +34,7 @@ function onSubmit(event) {
         messageSize: '16px',
         messageLineHeight: '150%',
         backgroundColor: '#59a10d',
-        iconUrl: '/img/ok.svg',
+        iconUrl: 'img/ok.svg',
         position: 'topRight',
         close: false,
       });
@@ -50,7 +50,7 @@ function onSubmit(event) {
         messageSize: '16px',
         messageLineHeight: '150%',
         backgroundColor: ' #ef4040',
-        iconUrl: '/img/error.svg',
+        iconUrl: 'img/error.svg',
         position: 'topRight',
         close: false,
       });
